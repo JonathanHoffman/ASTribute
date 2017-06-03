@@ -1,0 +1,19 @@
+.yellow-background {
+  background-color: yellow;
+  padding: 10px;
+}
+
+.white-background {
+  background-color: white;
+  padding: 12px;
+  margin: 5px;
+}
+
+.thumbnail-container {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+li {
+  margin-bottom:  8px;
+}
